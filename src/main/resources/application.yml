@@ -1,5 +1,5 @@
 spring:
   security:
     user:
-      name: sample
+      name: rajveer
       password: intellij
